@@ -1,0 +1,7 @@
+[
+    {
+        "property": "mod.test-mod.sidebar.red",
+        "label": "Turns sidebar red",
+        "type": "checkbox"
+    }
+]
