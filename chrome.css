@@ -1,0 +1,5 @@
+@media (-moz-bool-pref: "mod.test-mod.sidebar.red") {
+  #navigator-toolbox {
+    background: red !important;
+  }
+}
