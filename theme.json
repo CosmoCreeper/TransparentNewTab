@@ -1,0 +1,13 @@
+{
+    "id": "test-mod-cosmo",
+    "name": "Test Mod",
+    "description": "A test mod for testing Sine installation, removal, management, and updating.",
+    "homepage": "https://github.com/CosmoCreeper/Test-Mod",
+    "author": "CosmoCreeper",
+    "version": "1.0.0",
+    "tags": [
+        "sine"
+    ],
+    "createdAt": "2025-05-01",
+    "updatedAt": "2025-05-01"
+}
