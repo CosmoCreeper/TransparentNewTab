@@ -3,6 +3,9 @@
     "name": "Test Mod",
     "description": "A test mod for testing Sine installation, removal, management, and updating.",
     "homepage": "https://github.com/CosmoCreeper/Test-Mod",
+    "style":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/chrome.css",
+    "readme":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/readme.md",
+    "preferences":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/preferences.json",
     "author": "CosmoCreeper",
     "version": "1.0.0",
     "tags": [
