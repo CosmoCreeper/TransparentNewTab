@@ -1,4 +1,5 @@
-@media (-moz-bool-pref: "mod.test-mod.sidebar.red") {
+zen.view.sidebar-expanded
+@media (-moz-bool-pref: "mod.test-mod.sidebar.red") and (-moz-bool-pref: "zen.view.sidebar-expanded") {
   #navigator-toolbox {
     background: red !important;
   }
