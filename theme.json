@@ -7,10 +7,10 @@
     "readme":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/readme.md",
     "preferences":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/preferences.json",
     "author": "CosmoCreeper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "tags": [
         "sine"
     ],
     "createdAt": "2025-05-01",
-    "updatedAt": "2025-05-01"
+    "updatedAt": "2025-05-03"
 }
