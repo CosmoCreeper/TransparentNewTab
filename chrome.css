@@ -1,5 +1,5 @@
-@media (-moz-bool-pref: "mod.test-mod.sidebar.red") and (-moz-bool-pref: "zen.view.sidebar-expanded") {
-  #navigator-toolbox {
-    background: blue !important;
-  }
+@-moz-document url(about:config), url(about:newtab) {
+    body {
+        background: transparent !important;
+    }
 }
