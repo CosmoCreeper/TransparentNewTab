@@ -1,16 +1,18 @@
 {
-    "id": "test-mod-cosmo",
-    "name": "Test Mod",
-    "description": "A test mod for testing Sine installation, removal, management, and updating.",
-    "homepage": "https://github.com/CosmoCreeper/Test-Mod",
-    "style":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/chrome.css",
-    "readme":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/readme.md",
-    "preferences":"https://raw.githubusercontent.com/CosmoCreeper/Test-Mod/main/preferences.json",
+    "id": "transparent-newtab",
+    "name": "Transparent New Tab",
+    "description": "A mod for having a transparent new tab if Transparent Zen is enabled.",
+    "homepage": "https://github.com/CosmoCreeper/TransparentNewTab",
+    "style":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/chrome.css",
+    "readme":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/readme.md",
+    "preferences":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/preferences.json",
     "author": "CosmoCreeper",
     "version": "1.0.2",
     "tags": [
-        "sine"
+        "sine",
+        "newtab",
+        "transparent"
     ],
     "createdAt": "2025-05-01",
-    "updatedAt": "2025-05-07"
+    "updatedAt": "2025-05-09"
 }
