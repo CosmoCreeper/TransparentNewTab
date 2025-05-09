@@ -6,6 +6,7 @@
     "style":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/chrome.css",
     "readme":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/readme.md",
     "preferences":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/preferences.json",
+    "image": "https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/transparentnewtab.png",
     "author": "CosmoCreeper",
     "version": "1.0.2",
     "tags": [
