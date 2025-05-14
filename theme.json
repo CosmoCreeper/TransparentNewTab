@@ -3,7 +3,7 @@
     "name": "Transparent New Tab",
     "description": "A mod for having a transparent new tab if Transparent Zen is enabled.",
     "homepage": "https://github.com/CosmoCreeper/TransparentNewTab",
-    "style": {"chrome":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/userChrome.css"},
+    "style": {"content":"https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/userChrome.css"},
     "readme": "https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/readme.md",
     "image": "https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/transparentnewtab.png",
     "author": "CosmoCreeper",
@@ -14,5 +14,5 @@
         "transparent"
     ],
     "createdAt": "2025-05-01",
-    "updatedAt": "2025-05-13"
+    "updatedAt": "2025-05-14"
 }
