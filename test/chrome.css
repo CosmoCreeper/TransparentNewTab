@@ -1,0 +1,6 @@
+@-moz-document url(about:newtab) {
+    body {
+        background: red !important;
+    }
+    @import url("../transparentnewtab.css");
+}
