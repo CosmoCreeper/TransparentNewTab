@@ -1,4 +1,4 @@
-import "./myfiles/myfile.css";
+@import "./myfiles/myfile.css";
 
 @-moz-document url-prefix(about:newtab) {
   body {
