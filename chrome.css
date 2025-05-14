@@ -2,5 +2,5 @@
     body {
         background: red !important;
     }
-    import("./transparentnewtab.css");
+    import url("./transparentnewtab.css");
 }
