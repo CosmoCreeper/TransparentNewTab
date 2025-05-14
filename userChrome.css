@@ -1,3 +1,5 @@
-body {
-  background: red !important;
+@-moz-document url-prefix(about:newtab) {
+  body {
+    background: red !important;
+  }
 }
