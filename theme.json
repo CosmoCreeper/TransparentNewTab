@@ -1,0 +1,18 @@
+{
+    "id": "transparent-newtab",
+    "name": "Transparent New Tab",
+    "description": "A mod for having transparent new tabs.",
+    "homepage": "https://github.com/CosmoCreeper/TransparentNewTab/",
+    "style": "https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/chrome.css",
+    "readme": "https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/README.md",
+    "image": "https://raw.githubusercontent.com/CosmoCreeper/TransparentNewTab/main/transparentnewtab.png",
+    "author": "CosmoCreeper",
+    "version": "1.0.0",
+    "tags": [
+        "sine",
+        "transparent",
+        "tabs"
+    ],
+    "createdAt": "2025-05-14",
+    "updatedAt": "2025-05-14"
+}
