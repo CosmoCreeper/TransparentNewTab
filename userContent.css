@@ -1,7 +1,0 @@
-@import "./myfiles/myfile.css";
-
-@-moz-document url-prefix(about:newtab) {
-  body {
-    background: red !important;
-  }
-}
